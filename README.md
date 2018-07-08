@@ -8,4 +8,5 @@ Frogs have varying speed so be careful ;)
 
 
 ### Image license
-I will add authors of images soon
+Frog made by Nik02 from https://www.gamedev.net forum
+Tiles made by Liz Molnar  - https://raventale.itch.io/nature-tile-set
